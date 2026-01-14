@@ -1,6 +1,5 @@
 # backend-order-processing-supabase
 Safe, concurrent, multi-tenant order processing using Supabase (PostgreSQL).
-# Backend Take-Home Test — Order Processing (Supabase)
 
 ## Overview
 
